@@ -1,5 +1,4 @@
-package program4;
-// Book.java
+
 public class Book {
     // Attributes
     String bookname;
